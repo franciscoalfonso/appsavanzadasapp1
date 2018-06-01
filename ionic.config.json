@@ -1,0 +1,8 @@
+{
+  "name": "scan_alfonso_martinez",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
